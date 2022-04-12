@@ -1,0 +1,427 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+/*logo Area Starts*/
+/*logo Area Ends*/
+/*Nav Area Starts*/
+.navbar-nav{
+	margin:0 auto;
+	display: block;
+	text-align: center!important;
+}
+.navbar-nav li{
+	display:inline-block;
+	float:none;
+	font-size:20px;
+	font-weight:400!important;
+}
+.navbar-menu li a{
+	color:black!important;
+	border:1px solid grey!important;
+}
+.navbar-menu li a:hover{
+	background-color: black!important;
+	color: white!important;
+}
+.navbar{
+	margin:auto;
+	margin: 5px 0 0 0!important;
+	padding: 0!important;
+	border-top: 1px solid silver;
+	border-bottom: 1px solid silver;
+}
+/*Nav Area Ends*/
+/*Banner Area Starts*/
+.banner-carousel{
+	margin:40px 0 0 0;
+}
+.banner-area{
+	box-shadow: 4px 4px 5px ;
+}
+/*Banner Area Ends*/
+/*Art Area Starts*/
+#art-area #art-container{
+	margin:40px 40px 40px 40px!important;
+}
+.nav-item{
+	padding: 24px;
+}
+.art-link img{
+	background-size: cover!important;
+}
+.art-link h3{
+	margin-top: 15px!important;
+	font-family:Lato;
+	font-weight:400;
+	text-decoration:none;
+	color:black;
+}
+.art-link  h3:hover{
+	color:#A8A182!important;
+}
+.art-link img:hover{
+	box-shadow:0px 0px 10px 0px;
+	transition: 0.5s;
+	transform: translate(3.5px);
+}
+#art-area2 .expired{
+	margin:40px 0 60px 0!important;
+}
+.prods1{
+	width:290px!important;
+	margin:15px 0 0 0px!important;
+	border:1px solid black!important;
+}
+.prods{
+	width:290px!important;
+	margin:15px 0 0 0px!important;
+	border:1px solid black!important;
+}
+.triangle {
+      width: 0;
+      height: 0;
+      border-top: 100px solid black;
+      border-right: 100px solid transparent;
+    }
+.p3{
+	color:white;
+	font-size:24px;
+	font-weight:bold;
+	transform: rotate(-43deg);
+	margin-top:-50px;
+}
+.desc{
+	float:left;
+	width:290px;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.link1{
+	color:black;
+	text-decoration:none;
+	float:left;
+	font-family:candara;
+	font-weight:600;
+	font-size:22px;
+	margin-left:20px;
+}
+.link2{
+	margin-top:-15px;
+	color:black;
+	text-decoration:none;
+	float:left;
+	font-family:candara;
+	font-weight:600;
+	font-size:22px;
+	margin-left:20px;
+}
+.bold{
+	font-size:28px;
+	font-weight:bold;
+	font-family:"Poppins",sans-serif;
+}
+.p4{
+	font-size:28px;
+	font-weight:200;
+	font-family:"Poppins",sans-serif;
+	margin:50px 0 0 7.5px;
+	text-align: center!important;
+}
+.pdes{
+	color:black;
+	font-size:22px;
+	text-align:center;
+	border-bottom:1px solid black;
+	margin-top:-1.5px;
+}
+.p5{
+	font-size:28px;
+	width:290px;
+	margin-left:-85px;
+	font-family:"Poppins",sans-serif;
+}
+.link3{
+	margin-top:15px;
+	color:white;
+	background-color:black;
+	width:275px;
+	height:40px;
+	text-decoration:none;
+	float:left;
+	font-weight:600;
+	font-size:22px;
+	margin-left:10px;
+}
+.sub-cont{
+	width:250px;
+	margin:50px 0 50px 35px;
+}		
+.img1{
+	float:left;
+	width:150px;
+	height:150px;
+	border:1px solid silver;
+	border-radius:50%;
+	margin-left:50px;
+	margin-bottom:20px;
+}
+.img1:hover{
+	float:left;
+	width:150px;
+	height:150px;
+	border:2px solid #A8A182;
+	border-radius:50%;
+	margin-left:50px;
+}
+.reg{
+	margin-left:25px;
+	margin-top:20px;
+}
+.win{
+	margin-left:5px;
+	margin-top:20px;
+}
+.buy{
+	margin-left:35px;
+	margin-top:30px;
+}
+/*Art Area Ends
+
+/*footer Area Starts*/
+#footer{
+	background-color:black!important;
+	color: white;
+}
+.footer-col ul li.footer-heading{
+	font-size: 18px;
+	list-style: none;
+}
+.footer-col ul li{
+	list-style: none;
+	font-size :15px;
+}
+.ul2 .social-link{
+	opacity:100%;
+}
+.ul2 .associate-link{
+	opacity: 100%;
+}
+.footer-col .ul1 img{
+	width: 70px;
+	height: 28px;
+	overflow: hidden;
+}
+.footer-col .ul2 img{
+	float: left;
+	 padding: 2px;
+	}
+.footer-col ul.ul-item{
+	text-align: left;
+}
+.footer-col ul.ul-item{
+	margin: 40px 0 0 0!important;
+}
+.footer-col ul.ul-item h5{
+	margin: 0 0 20px 0;opacity: 80%
+}
+.footer-copyright{
+	padding: 30px 0 0 0!important;
+	border-top:1px solid grey;
+}
+/*footer Area Ends*/
+
+
+/*  left container */
+
+/* Center Container*/
+ /* Prod Box */
+ .prod_box{
+width:270px;
+height:auto;
+float:left;
+padding:10px 0px 10px 0px;
+margin: 10px 5px 0 0px;
+font-size:11px;
+border:1px solid black;
+}
+
+
+.center_prod_box{
+width:270px;height: auto;float:left; text-align:center;padding:0px; margin:0px;
+}
+.prod_details_tab{
+width:249px!important;
+height:31px;
+float:left;
+background-color: black;
+margin-left: 10px;
+text-align: center;
+}
+a.prod_details{
+display:block;
+float:left;
+text-decoration:none;
+color:white;
+font-size: 15px;
+text-align: center;
+margin: 5px 0 0 95px;
+}
+
+.product_title{
+color:#000;
+width: 248px;
+padding:0px 0 0px 0;
+margin: auto;
+}
+.product_title a{
+color:#000;
+font-size: 22px;
+padding:5px 0 5px 0;
+}
+.product_title a:hover{
+color:skyblue;
+}
+.product_img{
+  width: 248px;
+padding:0px 0 0px 0;
+}
+.prod_price{
+padding:0px 0 0px 0;
+margin: auto;
+width: 248px;
+}
+span.reduce{
+color:#000;
+text-decoration:line-through;
+}
+span.price{
+color:black;
+font-size: 18px;
+}
+span.start-bid{
+  font-size: 18px;
+}
+/*---------prod_box_big----------*/
+.prod_box_big{
+background-color: #c6c8ca;
+height:auto;
+float:left;
+font-size: 11px;
+padding:10px 10px 10px 15px;
+
+}
+.top_prod_box_big{
+width:690px;
+height:12px;
+float:left; 
+padding:0px; 
+margin:0px;
+}
+.bottom_prod_box_big{
+width:690px;
+height:12px;
+float:left;
+padding:0px; 
+margin:0px;
+}
+.center_prod_box{
+  border-top: 1px solid black;
+  width: 269px;
+  margin: 5px 0 5px 0;
+}
+.center_prod_box_big{
+width:690px;
+height: auto;
+
+/*text-align:center;*/
+padding:0px; margin:0px;
+}
+.left_prod_box_big{
+width:800px;
+height: auto;
+background:url(../admin/public/images/details_box_center.gif) repeat-y;float:center; 
+/*text-align:center;*/
+padding:0px; margin:0px;
+}
+
+.product_title_big{
+	font-size: 15px;
+}
+.product_img_big{
+width:345px;
+max-height: 317px;
+padding:5px 10px 5px 10px;
+float:left;
+border: 1px solid black;
+cursor: pointer;
+}
+.specifications{
+font-weight:bold!important;
+line-height:18px;
+}
+
+
+span.blue{
+font-size:16px;
+
+
+}
+strong.strong{
+  font-size: 16px;
+}
+.bid_box{
+width: 334px;
+}
+.bid_border_box{
+font-size: 22px;
+background-color: #383d41;
+text-align: center;
+color: white;
+}
+span.expiring{
+  float: left;
+  font-size: 20px;
+}
+.timer{
+  float: left;
+  font-size: 17px;
+}
+/* ----------------------------------Artist Area Starts*/
+.artist_box{
+	width: 265px;
+	float:left;
+	border:1px solid black;
+	margin: 5px;
+
+}
+.artist_img{
+	margin: 30px 0 0 0;
+
+
+}
+.artist_name{
+	font-size: 28px;
+	color: black;
+}
+.artist_email{
+	font-size: 15px;
+
+}
+.artist_email1{
+	font-size: 15px;
+
+}
+.artist_address{
+	margin-bottom: 20px;
+}
+/* -------------------sidebar----------------*/
+.profile-image{
+	margin: auto;
+}
+
+
+
+
+
+
